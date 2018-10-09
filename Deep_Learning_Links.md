@@ -1,3 +1,2 @@
 
-1. Deep Learning and Neural Network Tutorial 
-    http://neuralnetworksanddeeplearning.com/
+1. Deep Learning and Neural Network Tutorial <br /> http://neuralnetworksanddeeplearning.com/
