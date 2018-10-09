@@ -15,7 +15,7 @@ and Motion Prediction <br />  https://arxiv.org/pdf/1801.06523.pdf <br /> Publis
 
 4. Multi-Modal  Trajectory  Prediction  of  Surrounding  Vehicles  with Maneuver  based  LSTMs <br /> http://cvrr.ucsd.edu/publications/2018/nachiket_IV18.pdf <br /> Year : 15 May 2018 <br /> Module : Prediction <br /> Author : Mohan Trivedi
 
-5. 
+5. **Interactive Maneuver Prediction and Planning for Highly Automated Driving Functions** <br /> https://mediatum.ub.tum.de/doc/1324220/427578.pdf <br /> Year : August 2016 <br /> Module : Architecture + Planning module 
 
 
 #### Simulator and Github Links
