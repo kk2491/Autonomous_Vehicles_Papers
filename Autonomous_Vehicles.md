@@ -15,6 +15,7 @@
 
 5. **Interactive Maneuver Prediction and Planning for Highly Automated Driving Functions** <br /> https://mediatum.ub.tum.de/doc/1324220/427578.pdf <br /> Year : August 2016 <br /> Module : Architecture + Planning module 
 
+6. **Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles** <br /> https://www.sciencedirect.com/science/article/pii/S0888327017303825 <br /> Year : July 2017 <br /> Module : Planning <br /> Note : The book is not available. 
 
 #### Simulator and Github Links
 
