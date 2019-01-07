@@ -17,6 +17,10 @@
 
 6. **Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles** <br /> https://www.sciencedirect.com/science/article/pii/S0888327017303825 <br /> Year : July 2017 <br /> Module : Planning <br /> Note : The book is not available. 
 
+#### Planning Module
+1. **Optimal trajectory generation for dynamic street scenarios in a Frenét Frame** <br /> https://ieeexplore.ieee.org/document/5509799
+
+
 #### Simulator and Github Links
 
 1. MADRaS : A Multi-Agent DRiving Simulator <br /> https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
