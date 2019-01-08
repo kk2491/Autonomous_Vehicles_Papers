@@ -26,6 +26,8 @@
 
 4. **Planning and Decision-Making for Autonomous Vehicles** <br /> https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-060117-105157 <br /> Year : 2018 <br /> Module : Planning
 
+5. **Behavior Trees for decision-making in Autonomous Driving** <br /> http://www.diva-portal.org/smash/get/diva2:907048/FULLTEXT01.pdf
+
 #### Simulator and Github Links
 
 1. MADRaS : A Multi-Agent DRiving Simulator <br /> https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
