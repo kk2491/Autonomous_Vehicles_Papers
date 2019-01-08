@@ -20,6 +20,11 @@
 #### Planning Module
 1. **Optimal trajectory generation for dynamic street scenarios in a Frenét Frame** <br /> https://ieeexplore.ieee.org/document/5509799
 
+2. **Behavior and Path Planning Algorithm of Autonomous Vehicle A1 in Structured Environments** <br /> https://ac.els-cdn.com/S1474667015349065/1-s2.0-S1474667015349065-main.pdf?_tid=0c38e85f-01f6-4a12-8ca1-970c30a291f8&acdnat=1546938586_ee7f065e93c20645ff7fb2b39b50d656 <br /> Year : June 2013 <br /> Module : Planning (Behavioral and Planning module)
+
+3. **A  Behavioral  Planning  Framework  for  Autonomous  Driving** <br /> https://www.ri.cmu.edu/pub_files/2014/6/IV2014-Junqing-Final.pdf <br /> Year : 2014 <br /> Module : Planning (Behavioral Planning Module)
+
+4. **Planning and Decision-Making for Autonomous Vehicles** <br /> https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-060117-105157 <br /> Year : 2018 <br /> Module : Planning
 
 #### Simulator and Github Links
 
