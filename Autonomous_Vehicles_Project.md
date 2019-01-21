@@ -1,7 +1,7 @@
 
 1. OpenDS simulation : https://opends.dfki.de/
 
-2. AdaptIVe : http://www.adaptive-ip.eu/
+2. AdaptIVe : http://www.adaptive-ip.eu/ AdaptIVe project which stands for Automated Driving Applications and Technologies for Intelligent Vehicles
 
 3. HaveIT : http://www.haveit-eu.org/displayITM1.asp?ITMID=6&LANG=EN
 
