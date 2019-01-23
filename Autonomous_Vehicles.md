@@ -2,6 +2,7 @@
 
 1. NHTSA Standards : https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf
 
+2. Open Autonomous Safety : https://oas.voyage.auto
 
 #### Architecture
 
@@ -17,6 +18,7 @@
 
 6. **Dynamic path planning for autonomous driving on various roads with avoidance of static and moving obstacles** <br /> https://www.sciencedirect.com/science/article/pii/S0888327017303825 <br /> Year : July 2017 <br /> Module : Planning <br /> Note : The book is not available. 
 
+
 #### Planning Module
 1. **Optimal trajectory generation for dynamic street scenarios in a Frenét Frame** <br /> https://ieeexplore.ieee.org/document/5509799
 
@@ -28,6 +30,7 @@
 
 5. **Behavior Trees for decision-making in Autonomous Driving** <br /> http://www.diva-portal.org/smash/get/diva2:907048/FULLTEXT01.pdf
 
+
 #### Simulator and Github Links
 
 1. MADRaS : A Multi-Agent DRiving Simulator <br /> https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
@@ -36,9 +39,22 @@
 
 3. Autonomous cars Links : https://github.com/takeitallsource/awesome-autonomous-vehicles#foundations
 
-4. 
+4. Car Maker : https://ipg-automotive.com/products-services/simulation-software/carmaker/
 
+5. Microsoft airsim : https://github.com/Microsoft/AirSim
+
+6. 
 
 #### Useful and Important links
 
 1. Open Dataset link : https://www.slideshare.net/yuhuang/public-dataset-for-autonomous-driving
+
+
+#### Autonomous Vehicle - Datasets
+
+1. NGSIM Dataset : https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
+
+
+#### Useful - Yet to be named
+
+1. MIT : https://selfdrivingcars.mit.edu/deeptraffic/
