@@ -38,6 +38,11 @@
 1. **TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents** <br /> https://arxiv.org/pdf/1811.02146.pdf <br /> 17 Dec 2018 
 
 
+#### Reinforcement Learning - Autonomous Vehicle
+
+1. **Deep Reinforcement Learning for Autonomous Vehicle Control among Human Drivers Manon Legrand** <br /> https://ai.vub.ac.be/sites/default/files/thesis_legrand.pdf
+
+
 #### Simulator and Github Links
 
 1. MADRaS : A Multi-Agent DRiving Simulator <br /> https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
