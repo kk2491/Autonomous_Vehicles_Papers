@@ -33,6 +33,11 @@
 5. **Behavior Trees for decision-making in Autonomous Driving** <br /> http://www.diva-portal.org/smash/get/diva2:907048/FULLTEXT01.pdf
 
 
+#### Prediction module
+
+1. **TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents** <br /> https://arxiv.org/pdf/1811.02146.pdf <br /> 17 Dec 2018 
+
+
 #### Simulator and Github Links
 
 1. MADRaS : A Multi-Agent DRiving Simulator <br /> https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
