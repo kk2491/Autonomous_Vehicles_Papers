@@ -40,8 +40,13 @@
 
 #### Reinforcement Learning - Autonomous Vehicle
 
-1. **Deep Reinforcement Learning for Autonomous Vehicle Control among Human Drivers Manon Legrand** <br /> https://ai.vub.ac.be/sites/default/files/thesis_legrand.pdf
+1. **Deep Reinforcement Learning for Autonomous Vehicle Control among Human Drivers Manon Legrand** <br /> https://ai.vub.ac.be/sites/default/files/thesis_legrand.pdf <br /> Academic year 2016-2017
 
+2. **Learning-based Lane Following and Changing Behaviors for Autonomous Vehicle** <br /> https://pdfs.semanticscholar.org/163d/c2bb0ffa32ef011df09c4ef7e3cc4c24ea35.pdf <br /> May 17, 2018
+
+3. **Tutorial** <br /> https://towardsdatascience.com/reinforcement-learning-towards-general-ai-1bd68256c72d
+
+4. 
 
 #### Simulator and Github Links
 
