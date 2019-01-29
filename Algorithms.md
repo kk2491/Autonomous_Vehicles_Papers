@@ -20,6 +20,8 @@
 7. RRT : Rapidly Exploring Random Tree
    Link : 
 
+8. Combined Search Graph - Tianyu gu
+   Link : https://www.researchgate.net/profile/Tianyu_Gu4/publication/315067229_Improved_Trajectory_Planning_for_On-Road_Self-Driving_Vehicles_Via_Combined_Graph_Search_Optimization_Topology_Analysis/links/58c95c5caca2721e667bc799/Improved-Trajectory-Planning-for-On-Road-Self-Driving-Vehicles-Via-Combined-Graph-Search-Optimization-Topology-Analysis.pdf
 
 ### Prediction Algorithms
 
