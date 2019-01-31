@@ -1,10 +1,10 @@
 #### Autonomous Car's standard
 
-1. NHTSA Standards : https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf
+1. NHTSA Standards <br /> https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf
 
-2. Open Autonomous Safety : https://oas.voyage.auto
+2. Open Autonomous Safety <br /> https://oas.voyage.auto
 
-3. ISO 26262 Standard : https://www.iso.org/standard/68384.html
+3. ISO 26262 Standard <br /> https://www.iso.org/standard/68384.html
 
 #### Architecture
 
@@ -78,7 +78,7 @@
 
 1. CubeSLAM: Monocular 3D Object Detection and SLAM without Prior Models (Lidar, Carla) <br /> https://arxiv.org/pdf/1806.00557.pdf <br /> https://ieeexplore.ieee.org/document/8100174
 
-2. 
+2. Object detection: speed and accuracy comparison (Faster R-CNN, R-FCN, SSD, FPN, RetinaNet and YOLOv3) <br /> https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
 
 3. 
 
