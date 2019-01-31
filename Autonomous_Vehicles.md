@@ -22,6 +22,7 @@
 
 
 #### Planning Module
+
 1. **Optimal trajectory generation for dynamic street scenarios in a Frenét Frame** <br /> https://ieeexplore.ieee.org/document/5509799
 
 2. **Behavior and Path Planning Algorithm of Autonomous Vehicle A1 in Structured Environments** <br /> https://ac.els-cdn.com/S1474667015349065/1-s2.0-S1474667015349065-main.pdf?_tid=0c38e85f-01f6-4a12-8ca1-970c30a291f8&acdnat=1546938586_ee7f065e93c20645ff7fb2b39b50d656 <br /> Year : June 2013 <br /> Module : Planning (Behavioral and Planning module)
@@ -32,11 +33,18 @@
 
 5. **Behavior Trees for decision-making in Autonomous Driving** <br /> http://www.diva-portal.org/smash/get/diva2:907048/FULLTEXT01.pdf
 
+6. **Planning Algorithm : Path  Planning  with  Orientation-Aware  Space  Exploration  Guided Heuristic  Search  for  Autonomous  Parking  and  Maneuvering** <br /> http://www.i6.in.tum.de/Main/Publications/ChenChao2015a.pdf <br /> Year : 
+
+7. **Planning Algorithm - Pure Pursuit : A Path Tracking Method For Autonomous Mobile Robots Based On Grid Decomposition** <br /> http://webpersonal.uma.es/~EPEREZ/files/SIRS99.pdf <br /> Year :
+
+8. **Improved Trajectory Planning for On-Road Self-Driving Vehicles Via Combined Graph Search, Optimization & Topology Analysis** <br /> https://www.researchgate.net/profile/Tianyu_Gu4/publication/315067229_Improved_Trajectory_Planning_for_On-Road_Self-Driving_Vehicles_Via_Combined_Graph_Search_Optimization_Topology_Analysis/links/58c95c5caca2721e667bc799/Improved-Trajectory-Planning-for-On-Road-Self-Driving-Vehicles-Via-Combined-Graph-Search-Optimization-Topology-Analysis.pdf <br /> Year : 2017
+
 
 #### Prediction module
 
 1. **TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents** <br /> https://arxiv.org/pdf/1811.02146.pdf <br /> 17 Dec 2018 
 
+2. **Convolutional Social Pooling for Vehicle Trajectory Prediction** <br /> https://arxiv.org/pdf/1805.06771.pdf <br /> Year : 15 May 2018
 
 #### Reinforcement Learning - Autonomous Vehicle
 
@@ -46,7 +54,43 @@
 
 3. **Tutorial** <br /> https://towardsdatascience.com/reinforcement-learning-towards-general-ai-1bd68256c72d
 
-4. 
+4. **Deep Reinforcement Learning framework for Autonomous Driving** <br /> https://arxiv.org/pdf/1704.02532.pdf <br /> 8 April 2017
+
+5. **End to End Learning for Self-Driving Cars** <br /> https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf <br /> Year : 25 April 2016
+
+6. **DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation** <br /> https://arxiv.org/pdf/1801.02805.pdf <br /> Year : 3 Jan 2019
+
+7. **Deep Reinforcement Learning for Autonomous Driving** <br /> https://arxiv.org/pdf/1811.11329.pdf <br /> Year : 28 Nov 2018
+
+8. **A Reinforcement Learning Based Approach for Automated Lane Change Maneuvers** <br /> https://arxiv.org/pdf/1804.07871.pdf <br /> Year : 2018
+
+9. **Learning-based Lane Following and Changing Behaviors for Autonomous Vehicle** <br /> https://pdfs.semanticscholar.org/163d/c2bb0ffa32ef011df09c4ef7e3cc4c24ea35.pdf <br /> Year : May 17 2018
+
+10. 
+
+
+#### Aribitration 
+
+1. **Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions** https://arxiv.org/pdf/1710.04459.pdf <br /> Year : 24 September 2018
+
+
+#### Object Detection
+
+1. CubeSLAM: Monocular 3D Object Detection and SLAM without Prior Models (Lidar, Carla) <br /> https://arxiv.org/pdf/1806.00557.pdf <br /> https://ieeexplore.ieee.org/document/8100174
+
+2. 
+
+3. 
+
+#### Reinforcement Learning - General
+
+
+#### Robotics 
+
+1. PythonRobotics: a Python code collection of robotics algorithms <br /> https://arxiv.org/pdf/1808.10703.pdf
+
+2. 
+
 
 #### Simulator and Github Links
 
