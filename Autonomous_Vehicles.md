@@ -10,11 +10,11 @@
 
 1. A Lightweight Simulator for Autonomous Driving Motion Planning Development <br /> https://www.semanticscholar.org/paper/A-Lightweight-Simulator-for-Autonomous-Driving-Gu/207d61ecb75f22dd1b63500b60e90479e5f48489 <br /> Published Year : 2015 <br /> Module : Planning
 
-2. **How would surround vehicles move? A Unified Framework for Maneuver Classification and Motion Prediction** <br />  https://arxiv.org/pdf/1801.06523.pdf <br /> Published Year : 19th Jan 2018 <br /> Module : Prediction 
+2. 
 
 3. **Towards a Functional System Architecture for Automated Vehicles** <br /> https://arxiv.org/pdf/1703.08557.pdf <br /> Year : 30 March 2017 <br /> Module : Architecture 
 
-4. Multi-Modal  Trajectory  Prediction  of  Surrounding  Vehicles  with Maneuver  based  LSTMs <br /> http://cvrr.ucsd.edu/publications/2018/nachiket_IV18.pdf <br /> Year : 15 May 2018 <br /> Module : Prediction <br /> Author : Mohan Trivedi
+4. 
 
 5. **Interactive Maneuver Prediction and Planning for Highly Automated Driving Functions** <br /> https://mediatum.ub.tum.de/doc/1324220/427578.pdf <br /> Year : August 2016 <br /> Module : Architecture + Planning module 
 
@@ -46,6 +46,13 @@
 
 2. **Convolutional Social Pooling for Vehicle Trajectory Prediction** <br /> https://arxiv.org/pdf/1805.06771.pdf <br /> Year : 15 May 2018
 
+3. **How would surround vehicles move? A Unified Framework for Maneuver Classification and Motion Prediction** <br />  https://arxiv.org/pdf/1801.06523.pdf <br /> Published Year : 19th Jan 2018 <br /> Module : Prediction 
+
+4. **Multi-Modal  Trajectory  Prediction  of  Surrounding  Vehicles  with Maneuver  based  LSTMs** <br /> http://cvrr.ucsd.edu/publications/2018/nachiket_IV18.pdf <br /> Year : 15 May 2018 <br /> Module : Prediction <br /> Author : Mohan Trivedi
+
+5. 
+
+
 #### Reinforcement Learning - Autonomous Vehicle
 
 1. **Deep Reinforcement Learning for Autonomous Vehicle Control among Human Drivers Manon Legrand** <br /> https://ai.vub.ac.be/sites/default/files/thesis_legrand.pdf <br /> Academic year 2016-2017
@@ -66,8 +73,9 @@
 
 9. **Learning-based Lane Following and Changing Behaviors for Autonomous Vehicle** <br /> https://pdfs.semanticscholar.org/163d/c2bb0ffa32ef011df09c4ef7e3cc4c24ea35.pdf <br /> Year : May 17 2018
 
-10. 
+10. **Autonomous vehicle control via deepreinforcement learning** <br /> http://publications.lib.chalmers.se/records/fulltext/252902/252902.pdf
 
+11. **End-to-End Race Driving with Deep Reinforcement Learning** <br /> https://team.inria.fr/rits/files/2018/02/ICRA18_EndToEndDriving_CameraReady.pdf
 
 #### Aribitration 
 
