@@ -6,6 +6,8 @@
 
 3. ISO 26262 Standard <br /> https://www.iso.org/standard/68384.html
 
+4. Moral Decisions <br /> https://www.nature.com/articles/s41586-018-0637-6
+
 #### Architecture
 
 1. A Lightweight Simulator for Autonomous Driving Motion Planning Development <br /> https://www.semanticscholar.org/paper/A-Lightweight-Simulator-for-Autonomous-Driving-Gu/207d61ecb75f22dd1b63500b60e90479e5f48489 <br /> Published Year : 2015 <br /> Module : Planning
