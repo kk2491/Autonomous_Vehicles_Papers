@@ -48,7 +48,7 @@
    
    b. Lookup table generation sample
    
-4. **State Lattice Planning** <br /> Link : https://journals.sagepub.com/doi/pdf/10.1177/0278364906075328 <br /> <\t > www.frc.ri.cmu.edu/~alonzo/pubs/papers/JFR_08_SS_Sampling.pdf
+4. **State Lattice Planning** <br /> Link : https://journals.sagepub.com/doi/pdf/10.1177/0278364906075328 <br /> <t /> www.frc.ri.cmu.edu/~alonzo/pubs/papers/JFR_08_SS_Sampling.pdf
 
    a. Uniform ploar sampling
    
@@ -64,7 +64,7 @@
    
    a. Basic RRT
    
-   b. RRT* <br /> Link : https://arxiv.org/pdf/1105.1186.pdf <br />      https://arxiv.org/abs/1005.0416
+   b. RRT* <br /> Link : https://arxiv.org/pdf/1105.1186.pdf <br /> <t />      https://arxiv.org/abs/1005.0416
    
    c. RRT with dubins path
    
@@ -76,9 +76,9 @@
    
    g. Batch informed RRT* <br /> Link : https://arxiv.org/abs/1405.5848
    
-   h. Closed loop RRT* <br /> Link : http://acl.mit.edu/papers/KuwataGNC08.pdf <br /> http://acl.mit.edu/papers/KuwataTCST09.pdf <br /> https://arxiv.org/abs/1601.06326
+   h. Closed loop RRT* <br /> Link : http://acl.mit.edu/papers/KuwataGNC08.pdf <br /> <t /> http://acl.mit.edu/papers/KuwataTCST09.pdf <br /> https://arxiv.org/abs/1601.06326
    
-   i. LQR-RRT* <br /> Link : http://lis.csail.mit.edu/pubs/perez-icra12.pdf <br /> https://github.com/MahanFathi/LQR-RRTstar
+   i. LQR-RRT* <br /> Link : http://lis.csail.mit.edu/pubs/perez-icra12.pdf <br /> <t /> https://github.com/MahanFathi/LQR-RRTstar
 
 8. Cubic spline planning
 
@@ -92,7 +92,7 @@
 
 13. Dubins path planning 
 
-14. Reeds-Shepp planning <br /> Link : http://planning.cs.uiuc.edu/node822.html <br /> https://pdfs.semanticscholar.org/932e/c495b1d0018fd59dee12a0bf74434fac7af4.pdf <br /> https://github.com/ghliu/pyReedsShepp
+14. Reeds-Shepp planning <br /> Link : http://planning.cs.uiuc.edu/node822.html <br /> <t /> https://pdfs.semanticscholar.org/932e/c495b1d0018fd59dee12a0bf74434fac7af4.pdf <br /> <t /> https://github.com/ghliu/pyReedsShepp
 
 15. LQR based path planning
 
