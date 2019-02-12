@@ -48,7 +48,7 @@
    
    b. Lookup table generation sample
    
-4. **State Lattice Planning** <br /> Link : https://journals.sagepub.com/doi/pdf/10.1177/0278364906075328 <br /> <t /> www.frc.ri.cmu.edu/~alonzo/pubs/papers/JFR_08_SS_Sampling.pdf
+4. **State Lattice Planning** <br /> Link : https://journals.sagepub.com/doi/pdf/10.1177/0278364906075328 <br /> <t> www.frc.ri.cmu.edu/~alonzo/pubs/papers/JFR_08_SS_Sampling.pdf
 
    a. Uniform ploar sampling
    
