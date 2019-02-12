@@ -84,19 +84,19 @@
 
 9. B-spline planning <br /> Link : 
 
-10.Eta^3 Spline path planning <br /> Link : https://ieeexplore.ieee.org/document/4339545/
+10. Eta^3 Spline path planning <br /> Link : https://ieeexplore.ieee.org/document/4339545/
 
-11.Bezier path planning <br /> Link : citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.294.6438&rep=rep1&type=pdf
+11. Bezier path planning <br /> Link : citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.294.6438&rep=rep1&type=pdf
 
-12.Quintic polynomials planning <br /> Link : ieeexplore.ieee.org/document/637936/
+12. Quintic polynomials planning <br /> Link : ieeexplore.ieee.org/document/637936/
 
-13.Dubins path planning 
+13. Dubins path planning 
 
-14.Reeds-Shepp planning <br /> Link : http://planning.cs.uiuc.edu/node822.html <br /> https://pdfs.semanticscholar.org/932e/c495b1d0018fd59dee12a0bf74434fac7af4.pdf <br /> https://github.com/ghliu/pyReedsShepp
+14. Reeds-Shepp planning <br /> Link : http://planning.cs.uiuc.edu/node822.html <br /> https://pdfs.semanticscholar.org/932e/c495b1d0018fd59dee12a0bf74434fac7af4.pdf <br /> https://github.com/ghliu/pyReedsShepp
 
-15.LQR based path planning
+15. LQR based path planning
 
-16.Optimal Trajectory in Frenet Frame <br /> Link : https://www.researchgate.net/publication/224156269_Optimal_Trajectory_Generation_for_Dynamic_Street_Scenarios_in_a_Frenet_Frame 
+16. Optimal Trajectory in Frenet Frame <br /> Link : https://www.researchgate.net/publication/224156269_Optimal_Trajectory_Generation_for_Dynamic_Street_Scenarios_in_a_Frenet_Frame 
 
 
 
