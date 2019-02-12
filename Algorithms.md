@@ -32,7 +32,7 @@
 
 ### From Python Robotics Github
 
-1. Dynamic Window Approach <br /> Link : https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf
+1. **Dynamic Window Approach** <br /> Link : https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf
 
 2. **Grid Based Search**
 
@@ -56,15 +56,15 @@
    
    c. Lane sampling
    
-5. Probabilistic Road Map Planning (PRM)
+5. **Probabilistic Road Map Planning (PRM)**
 
-6. Voronoi Road Map Planning <br /> https://www.cs.cmu.edu/~motionplanning/lecture/Chap5-RoadMap-Methods_howie.pdf
+6. **Voronoi Road Map Planning** <br /> https://www.cs.cmu.edu/~motionplanning/lecture/Chap5-RoadMap-Methods_howie.pdf
 
-7. Rapidly Exploring Random Trees (RRT)
+7. **Rapidly Exploring Random Trees (RRT)**
    
    a. Basic RRT
    
-   b. RRT* <br /> Link : https://arxiv.org/pdf/1105.1186.pdf <br /> https://arxiv.org/abs/1005.0416
+   b. RRT* <br /> Link : https://arxiv.org/pdf/1105.1186.pdf <br />      https://arxiv.org/abs/1005.0416
    
    c. RRT with dubins path
    
