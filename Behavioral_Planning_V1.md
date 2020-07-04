@@ -10,4 +10,8 @@
 
 3. Lane Change Decision-making through DeepReinforcement Learning with Rule-basedConstraints <br /> Year : 2019 <br /> https://arxiv.org/pdf/1904.00231.pdf -- Good one
 
-4. 
+### Behavior Planning Decision Making
+
+1. Ethical Decision Making Autonomous Vehicles Stanford <br /> https://ddl.stanford.edu/publication-research-theme/ethical-decision-making-autonomous-vehicles
+
+2. 
